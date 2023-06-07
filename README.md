@@ -16,12 +16,19 @@ Module 22 Challenge
 
 4. What is the "view" rating for homes costing more than or equal to $350,000? Determine the run time for this query, and round off your answer to two decimal places.
 
-![Uncached Data](https://github.com/ShankarM93/Home-Sales/assets/120356304/559e9848-9ba9-48fa-8bc9-3bd1ce49fac9) UNCACHED DATA 1.23 seconds run time. 
+![Uncached Data](https://github.com/ShankarM93/Home-Sales/assets/120356304/559e9848-9ba9-48fa-8bc9-3bd1ce49fac9) 
+UNCACHED DATA 1.23 seconds run time. 
 
 
-![Cached Data](https://github.com/ShankarM93/Home-Sales/assets/120356304/f1f67470-ed0c-4aed-b561-071e637b2843) CACHED DATA 2.61 seconds run time.
 
 
-![Parquet data](https://github.com/ShankarM93/Home-Sales/assets/120356304/9d2d142d-a6c7-4719-babd-918030c33cc2) Parquet Data 0.37 seconds run time. 
+![Cached Data](https://github.com/ShankarM93/Home-Sales/assets/120356304/f1f67470-ed0c-4aed-b561-071e637b2843) 
+CACHED DATA 2.61 seconds run time.
+
+
+
+
+![Parquet data](https://github.com/ShankarM93/Home-Sales/assets/120356304/9d2d142d-a6c7-4719-babd-918030c33cc2) 
+Parquet Data 0.37 seconds run time. 
 
 
